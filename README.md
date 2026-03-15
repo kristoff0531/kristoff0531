@@ -19,6 +19,13 @@
 * **Tools:** Git, Linux, Jupyter Notebook
 * **Concepts:** Test Automation Frameworks, Data Pipelines, Distributed Processing
 
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kristoff0531&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kristoff0531&layout=compact&theme=dark)
+
+
 ## 📌 Featured Projects
 
 🔹 **IPL Data Analysis** – PySpark project processing IPL datasets with AWS S3
@@ -36,5 +43,12 @@
 
 * 💼 LinkedIn: https://www.linkedin.com/in/kunal-kumar-roy
 * 📧 Email: imkunalkumarroy@gmail.com
+<div align="center">
+
+**Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate!** 🚀
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kristoff0531.kristoff0531)
+
+</div>
 
 ⚡ *“In the age of evolution, continuous learning is the real power.”*
